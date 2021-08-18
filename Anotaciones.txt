@@ -5,3 +5,9 @@ git branch -M main
 git push -u origin main
 
 https://youtu.be/3dHNOWTI7H8?t=3550
+
+Levantar el server
+npm run server 
+
+Levantar el sitio
+ng serve / npm start
